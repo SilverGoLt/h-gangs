@@ -2,6 +2,8 @@ fx_version 'bodacious'
 
 game 'gta5'
 
+author 'Haroki'
+
 lua54 'yes'
 
 shared_script {
